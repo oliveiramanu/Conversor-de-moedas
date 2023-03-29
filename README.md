@@ -1,3 +1,3 @@
-# Conversor-de-moedas
-Esse repositório foi criado em resolução de um exercício do Curso em Vídeo do professor Gustavo Guanabara onde se cria um conversor de moedas em python.
-o código está simples mas pretendo futuramente melhora-lo.
+# Exercícios em Pyhton
+Esse repositório foi criado em resolução dos exercícios do curso de python do canal Curso em Vídeo do professor Gustavo Guanabara.
+os códigos estão simples mas pretendo futuramente melhora-los.
